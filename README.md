@@ -20,7 +20,6 @@ Each sound will play on average 5 times an hour.
 
 <details>
   <summary>How to update</summary>
-  <br>
   
 Simply **delete** the **SOB** folder and **replace** it with the **new** one!
 </details>
