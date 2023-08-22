@@ -15,8 +15,15 @@ To open the config you need to be an Operator and do `/function sob:config`
 
 ## Note
 
-Each sound will play on average 5 times an hour
+Each sound will play on average 5 times an hour.
 > Can be modified in the "playsound" function.
+
+<details>
+  <summary>How to update</summary>
+  <br>
+  
+Simply **delete** the **SOB** folder and **replace** it with the **new** one!
+</details>
 
 ---
 
