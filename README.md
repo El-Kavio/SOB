@@ -2,9 +2,9 @@
 
 <img src="https://github.com/El-Kavio/SOB/assets/140896938/dffcefa0-1c19-40ba-8103-3f041272f13a" alt="SOB banner" width="35%">
 
-**SOB** is a **datapack** that plays **sounds** at **random** moments to make the game a tad more **fun**!
-
 ---
+
+**SOB** is a **datapack** that plays **sounds** at **random** moments to make the game a tad more **fun**!
 
 ## Config
 
