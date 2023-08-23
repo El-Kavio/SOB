@@ -1,6 +1,6 @@
 # Silence Occasionally Broken by... (SOB)
 
-<img src="https://github.com/El-Kavio/SOB/assets/140896938/dffcefa0-1c19-40ba-8103-3f041272f13a" alt="SOB banner" width="35%">
+<img src="https://github.com/El-Kavio/SOB/assets/140896938/bee88abf-52a1-4188-8412-f66f00954da5" alt="SOB banner" width="35%">
 
 ---
 
