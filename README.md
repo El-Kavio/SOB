@@ -16,7 +16,7 @@ To open the config you need to be an Operator and do `/function sob:config`
 ## Note
 
 Each sound will play on average 5 times an hour.
-> Can be modified in the **playsound.mcfunction**
+> Can be modified in the **playsound.mcfunction**.
 
 <details>
   <summary>How to update</summary>
